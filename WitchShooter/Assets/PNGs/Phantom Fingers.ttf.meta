@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 32ac291db5e7d274b8ca6a99f6371792
+timeCreated: 1493489563
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Phantom Fingers
+  fontNames:
+  - Phantom Fingers
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

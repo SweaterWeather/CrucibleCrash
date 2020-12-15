@@ -1,0 +1,79 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   24.20.100.6025
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Sweater Weather\Desktop\My Work\Unity Games\WitchShooter\Crucible Crash_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sweater Weather\Desktop\My Work\Unity Games\WitchShooter\Crucible Crash_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sweater Weather\Desktop\My Work\Unity Games\WitchShooter\Crucible Crash_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Sweater Weather\Desktop\My Work\Unity Games\WitchShooter\Crucible Crash_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Sweater Weather\Desktop\My Work\Unity Games\WitchShooter\Crucible Crash_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Sweater Weather\Desktop\My Work\Unity Games\WitchShooter\Crucible Crash_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Sweater Weather\Desktop\My Work\Unity Games\WitchShooter\Crucible Crash_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Sweater Weather\Desktop\My Work\Unity Games\WitchShooter\Crucible Crash_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Sweater Weather\Desktop\My Work\Unity Games\WitchShooter\Crucible Crash_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Sweater Weather\Desktop\My Work\Unity Games\WitchShooter\Crucible Crash_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.544 seconds
+Platform assembly: C:\Users\Sweater Weather\Desktop\My Work\Unity Games\WitchShooter\Crucible Crash_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Sweater Weather\Desktop\My Work\Unity Games\WitchShooter\Crucible Crash_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.512800 ms
+NetwrokDiscovery set broadbast data to:NetworkManager:localhost:7777
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+NetworkLobbyManager can't accept new connection [hostId: -1 connectionId: 0 isReady: False channel count: 0], not in lobby and game already in progress.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'PinkStage1' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'PinkStage2' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'PinkStage3' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'Player' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkDiscovery broadcast data changed while using NetworkManager. This can prevent clients from finding the server. The format of the broadcast data must be 'NetworkManager:IPAddress:Port'.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+  Thread -> id: 6190 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.127700 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 6645.
+Total: 2.304600 ms (FindLiveObjects: 0.350300 ms CreateObjectMapping: 0.362500 ms MarkObjects: 1.558300 ms  DeleteObjects: 0.032700 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 37.378300 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6645.
+Total: 25.559399 ms (FindLiveObjects: 2.268200 ms CreateObjectMapping: 4.423800 ms MarkObjects: 18.759699 ms  DeleteObjects: 0.102800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 22.069201 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 5136.
+Total: 31.224600 ms (FindLiveObjects: 1.545900 ms CreateObjectMapping: 1.877200 ms MarkObjects: 11.439000 ms  DeleteObjects: 16.356400 ms)
+
+NetwrokDiscovery set broadbast data to:NetworkManager:localhost:7777
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
